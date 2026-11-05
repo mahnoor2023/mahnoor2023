@@ -1,49 +1,59 @@
-# Hi there, I'm Mahnoor 👋
+# Hi, I'm Mahnoor 👋
 
-### AI/ML Developer | Data Science | Full-Stack AI Developer
+### AI/ML Developer • Data Science • Full-Stack AI
 
-I'm a Software Engineering student passionate about building intelligent, real-world applications using Artificial Intelligence, Machine Learning, and modern software technologies.
+Building intelligent software that solves real-world problems.
 
-- 🎓 Software Engineering — Sindh Madressatul Islam University (SMIU), Karachi
+📍 Karachi, Pakistan &nbsp; | &nbsp; 🎓 Software Engineering — SMIU
+
+---
+
+### About Me
+
+- 🎓 Software Engineering student at Sindh Madressatul Islam University
 - 📊 Data Science — NED Academy, NED University of Engineering & Technology, Karachi
-- 🧠 Exploring Machine Learning, Deep Learning, NLP, and Generative AI
-- 💻 Building AI-powered full-stack applications
-- 🚀 Interested in AI engineering, research, and innovative software products
-- 📍 Based in Karachi, Pakistan
+- 🧠 Working with Machine Learning, Deep Learning, NLP and Generative AI
+- 🚀 Building AI-powered applications and exploring AI entrepreneurship
 
-## 🛠️ Technical Skills
+### Tech Stack
 
-**Programming:** Python, JavaScript, TypeScript, SQL
+**Languages**
 
-**AI & Data Science:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, RAG
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks:** FastAPI, React, Next.js, Scikit-learn
+**AI & Data Science**
 
-**Tools:** Git, GitHub, Jupyter Notebook, Hugging Face, ONNX Runtime
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-222222?style=for-the-badge&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## 🚀 Projects
+**Full-Stack Development**
 
-### PEHRADAR — AI Fire & Smoke Detection
-AI-powered fire and smoke detection system with computer vision and incident monitoring.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### NEXORA AI — AI Data Analysis Platform
-Full-stack platform for dataset management, analysis, preprocessing, and AI-assisted exploration.
+---
 
-### AERIS — Aviation Intelligence Research
-Software research platform for aviation data analysis, aircraft visualization, and flight intelligence.
+### Featured Projects
 
-### PDF RAG Assistant
-Document question-answering application using Retrieval-Augmented Generation and Large Language Models.
+| Project | Focus |
+|---|---|
+| **PEHRADAR** | AI Fire & Smoke Detection |
+| **NEXORA AI** | AI-Powered Data Analysis |
+| **AERIS** | Aviation Intelligence Research |
+| **PDF RAG Assistant** | Document AI & LLMs |
 
-## 📚 Currently Learning
+---
 
-- Advanced AI/ML engineering
-- AI Agents and LLM applications
-- Data Science and predictive modeling
-- Scalable AI software architecture
+### What I'm Exploring
 
-## 🤝 Let's Connect
+Machine Learning Engineering · AI Agents · LLM Applications · Real-World AI Products
 
-I'm interested in AI/ML opportunities, software engineering collaborations, and building meaningful AI products.
+---
 
-[GitHub](https://github.com/mahnoor2023)
+### Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-mahnoor2023-181717?style=flat-square&logo=github)](https://github.com/mahnoor2023)
