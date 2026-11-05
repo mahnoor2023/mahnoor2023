@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=190&section=header&text=MAHNOOR&fontSize=55&fontColor=ffffff&fontAlignY=37&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn" alt="Mahnoor banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=190&section=header&text=MAHNOOR%20IFTIKHAR&fontSize=42&fontColor=ffffff&fontAlignY=37&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn" alt="Mahnoor Iftikhar banner"/>
 
 <a href="https://mahnoor-iftikhar-portfolio.netlify.app/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=570&lines=Building+Intelligent+Systems;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Real+Software" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=570&lines=Building+Intelligent+Systems;Developing+End-to-End+AI+Applications;Turning+Ideas+Into+Real+Software" alt="Animated developer introduction"/>
 </a>
 
 <br/><br/>
@@ -21,38 +21,55 @@
 
 <br/><br/>
 
-### Hey, I'm Mahnoor! 👋
+<h2>Hi, I'm Mahnoor Iftikhar 👋</h2>
 
-A Software Engineering student exploring the intersection of  
-**Artificial Intelligence, Data Science & Full-Stack Development.**
+<h3>AI/ML Developer | Full-Stack AI Development | Data Science</h3>
 
-I enjoy creating intelligent applications, experimenting with AI technologies, and transforming ideas into working software.
+I build AI-driven applications that bring together
+**Machine Learning, Generative AI, and modern Software Engineering.**
 
-📍 Karachi, Pakistan &nbsp; | &nbsp; 🎓 SMIU  
-📊 Data Science — NED Academy, NED University
+My projects span LLM-powered applications, intelligent data analysis,
+document intelligence, and aviation research systems.
+
+My focus is on developing practical AI solutions,
+from data processing and model integration to working web applications.
+
+<br/>
+
+🎓 **B.S. Software Engineering — Final Semester**  
+Sindh Madressatul Islam University (SMIU), Karachi
+
+📜 **Data Science Certificate — 2 Months**  
+NED Academy, NED University of Engineering & Technology, Karachi
+
+📍 **Karachi, Pakistan**
 
 </div>
 
 ---
 
-<h2 align="center">⚡ My Tech Universe</h2>
+<h2 align="center">⚡ Technical Expertise</h2>
 
 <div align="center">
 
-**Languages & Development**
+<h4>Languages & Full-Stack Development</h4>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi&theme=dark" alt="Development technologies"/>
-
-<br/>
-
-**AI, Data Science & Tools**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,git,github&theme=dark" alt="AI and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi&theme=dark" alt="Programming and development technologies"/>
 
 <br/><br/>
 
-`Machine Learning` · `Deep Learning` · `Computer Vision`  
-`NLP` · `Generative AI` · `LLMs` · `RAG`
+<h4>AI, Machine Learning & Developer Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,git,github&theme=dark" alt="AI and developer technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-4338CA?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0891B2?style=flat-square" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Generative_AI-4338CA?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" alt="RAG"/>
 
 </div>
 
@@ -65,23 +82,27 @@ I enjoy creating intelligent applications, experimenting with AI technologies, a
 <td width="50%" valign="top">
 
 ### 🧠 NEXORA AI
-**Intelligent Data Analysis**
 
-A full-stack data analysis workspace for dataset exploration, preprocessing, and AI-assisted analysis.
+**AI-Powered Data Analysis Platform**
 
-`Python` `Next.js` `FastAPI`
+A full-stack application for dataset exploration, preprocessing, and AI-assisted data analysis.
 
-[Explore Project](https://github.com/mahnoor2023/NEXORA-AI)
+**Tech:** Python · FastAPI · Next.js · Data Science
+
+<a href="https://github.com/mahnoor2023/NEXORA-AI">Explore Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ✈️ AERIS
+
 **Aviation Intelligence Research**
 
-An aviation research platform exploring aircraft data, historical replay, and interactive airspace intelligence.
+An aviation software research platform combining real aircraft data, historical replay, and interactive airspace visualization.
 
-`Python` `React` `Data Science`
+**Tech:** Python · React · Aviation Data
+
+*Research & Development*
 
 </td>
 </tr>
@@ -89,25 +110,27 @@ An aviation research platform exploring aircraft data, historical replay, and in
 <td width="50%" valign="top">
 
 ### 📄 PDF RAG Assistant
-**Document Intelligence**
 
-An AI-powered document question-answering project exploring retrieval-augmented generation and large language models.
+**AI Document Intelligence**
 
-`Python` `RAG` `LLMs`
+A document question-answering project exploring retrieval-augmented generation and large language models.
 
-[Explore Project](https://github.com/mahnoor2023/pdf-rag-assistant)
+**Tech:** Python · RAG · LLMs
+
+<a href="https://github.com/mahnoor2023/pdf-rag-assistant">Explore Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 More Projects
-**Explore My Work**
+### 💻 More AI & Data Science Projects
 
-Discover more projects involving machine learning, NLP, data science, and AI-powered software.
+**Machine Learning & Software Development**
 
-`AI / ML` `Python` `Software Engineering`
+Explore additional work involving predictive modeling, natural language processing, and AI applications.
 
-[View All Repositories](https://github.com/mahnoor2023?tab=repositories)
+**Focus:** Python · AI/ML · Data Science
+
+<a href="https://github.com/mahnoor2023?tab=repositories">View All Repositories →</a>
 
 </td>
 </tr>
@@ -115,15 +138,15 @@ Discover more projects involving machine learning, NLP, data science, and AI-pow
 
 ---
 
-<h2 align="center">🌱 Currently Exploring</h2>
+<h2 align="center">🎯 Areas of Interest</h2>
 
 <div align="center">
 
-**AI Agents** &nbsp; ✦ &nbsp; **Advanced Machine Learning**
+**AI Engineering** &nbsp; ✦ &nbsp; **Machine Learning**
 
-**LLM Applications** &nbsp; ✦ &nbsp; **Intelligent Software**
+**LLM Applications** &nbsp; ✦ &nbsp; **Intelligent Agents**
 
-**Real-World AI Products** &nbsp; ✦ &nbsp; **AI Entrepreneurship**
+**Data Science** &nbsp; ✦ &nbsp; **Full-Stack AI Systems**
 
 </div>
 
@@ -131,22 +154,26 @@ Discover more projects involving machine learning, NLP, data science, and AI-pow
 
 <div align="center">
 
-<h2>💜 Let's Connect & Create</h2>
+<h2>💜 Let's Connect & Collaborate</h2>
 
-Interested in collaborating on meaningful AI projects?  
-I'm open to AI/ML internships, research opportunities, and technical collaborations.
+I'm interested in opportunities to develop real-world AI applications,
+contribute to engineering teams, and collaborate on innovative software.
+
+**Open to AI/ML internships, entry-level developer opportunities,
+and technical collaborations.**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mahnoor-iftikhar-46a20b30b/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
+
 <a href="https://mahnoor-iftikhar-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-4338CA?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit portfolio"/>
+<img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-4338CA?style=for-the-badge&logo=netlify&logoColor=white" alt="View portfolio"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=100&section=footer" alt="Footer banner"/>
 
 </div>
